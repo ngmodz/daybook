@@ -8,6 +8,7 @@ A personal journal and task management application.
 - Task management
 - Calendar view
 - User authentication
+- **PWA Support** - Install on mobile and desktop devices
 
 ## Tech Stack
 
